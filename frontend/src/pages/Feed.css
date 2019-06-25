@@ -25,9 +25,7 @@ section#post-list article header .user-info {
 }
 
 section#post-list article header .user-info span {
-  font-size: 11px;
-  color: #666;
-  margin-top: 3px;
+  font-size: 13px;
 }
 
 section#post-list article header .user-info span.place {
